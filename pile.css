@@ -1,0 +1,35 @@
+body{font-size:15px; margin:0;padding:0;font-family:arial;min-width:960px}
+#header{background:green;width:100%;text-align:center:font-size:100;}
+#header div{margin:0 auto;overflow:hidden;width:970px;text-align:center;}
+#header div ul{float:right;list-style:none;margin-top:40px;overflow:hidden;}
+#header div ul li{float:right;padding:9px;}
+#header div ul li a{color:black;text-align:center;text-decoration:none;height:30px;width:90px;display:block;}
+#Content{background:green url("content1.jpg")repeat-x top left;}
+#Content div{background:url("bg-homepage.jpg")no-repeat top center;min-height:1200px;margin:0 auto;overflow:hidden;}
+#Content div div{background:none;float:right;margin:500px 0 0;width:480px;padding-right:10px;}
+.box {background:green url("content2.jpg")repeat-x bottom center; padding-bottom:50px;margin:0 auto;width:auto;}
+#boxcontent{padding-top:10px;overflow:hidden;width:auto;}
+#sidebar{float:left;width:320px;padding-top:10px;}
+#sidebar a{float:right;text-align:right;}
+{color:green;font-weight:900;font-size:20px;text-indent:20px;}
+#sidebar ul{list-style:none;margin:0;padding:0;}
+#sidebar ul li{height:200px;padding:14px 55px 0px 35px;}
+#Ourvision{	background:url("bg-sidebar-item1.jpg");}
+#Ourmission{background:url("bg-sidebar-item2.jpg");}
+#Wecare{background:url("bg-sidebar-item2.jpg");}
+#side p h2{text-align:right; float:right;}
+{color:green;font-weight:899;font-size:20px;text-indent:20px;}
+#sidebar ul{list-style:none;margin:0;padding:0;}
+#sidebar ul li{height:200px;padding:14px 55px 0px 35px;}
+#Ourvision{	background:url("bg-sidebar-item1.jpg");}
+#Ourmission{background:url("bg-sidebar-item2.jpg");}
+#Wecare{background:url("bg-sidebar-item2.jpg");}
+#side h2{color:orange;font-size:20px;padding-top:40px;display:block;}
+#footer{padding-top:20px;} 
+#footer div{overflow:hidden;width:100%;margin: auto;color:green;}
+#footer div div{float:left;width:170px;margin-left:70px;}
+#socialmedia h2{color:green;font-size:20px;display:block;padding-bottom:20px;}
+#socialmedia a{display:block;text-decoration:none;color:black;margin-bottom:15px;text-indent:70px;}
+#Mainfooter{float:right;list-style:none;margin:0;padding:0;overflow:hidden;width:650px;}no sapce; 20p
+.footnote{text-align:center;}
+
